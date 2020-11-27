@@ -1,0 +1,19 @@
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For medicine.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For_medicine.Form1.resources
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For_medicine.Properties.Resources.resources
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For medicine.csproj.GenerateResource.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For medicine.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Debug\For medicine.exe.config
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Debug\For medicine.exe
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Debug\For medicine.pdb
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For medicine.exe
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Debug\For medicine.pdb
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\bin\Debug\For medicine.exe.config
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\bin\Debug\For medicine.exe
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\bin\Debug\For medicine.pdb
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For medicine.csprojAssemblyReference.cache
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For_medicine.Form1.resources
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For_medicine.Properties.Resources.resources
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For medicine.csproj.GenerateResource.cache
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For medicine.exe
+F:\Improve\Project Final Evaluation\YR\For medicine\For medicine\obj\Debug\For medicine.pdb

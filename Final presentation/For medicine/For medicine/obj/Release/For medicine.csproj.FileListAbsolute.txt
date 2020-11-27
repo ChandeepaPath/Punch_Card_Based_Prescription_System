@@ -1,0 +1,11 @@
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Release\For medicine.exe.config
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Release\For medicine.exe
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Release\For medicine.pdb
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For medicine.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For_medicine.Form1.resources
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For_medicine.Properties.Resources.resources
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For medicine.csproj.GenerateResource.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For medicine.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For medicine.exe
+C:\Users\yashi\source\repos\For medicine\For medicine\obj\Release\For medicine.pdb
+C:\Users\yashi\source\repos\For medicine\For medicine\bin\Release\Database2.accdb
